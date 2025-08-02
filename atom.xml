@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-08-02T13:22:02.274Z</updated>
+  <updated>2025-08-02T13:51:21.395Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/wiki/My-New-Post/"/>
     <id>http://example.com/wiki/My-New-Post/</id>
     <published>2025-08-02T13:18:38.000Z</published>
-    <updated>2025-08-02T13:22:02.274Z</updated>
+    <updated>2025-08-02T13:51:21.395Z</updated>
     
     <content type="html"><![CDATA[<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote><ul><li><a href=""></a></li><li><a href=""></a></li></ul></blockquote>]]></content>
     
@@ -38,6 +38,8 @@
     </summary>
     
       <category term="5G" scheme="http://example.com/categories/5G/"/>
+    
+      <category term="Test" scheme="http://example.com/categories/5G/Test/"/>
     
     
   </entry>
