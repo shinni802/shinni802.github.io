@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://example.com/wiki/My-New-Post/</loc>
+    
+    <lastmod>2025-08-02T13:22:02.274Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/index.html</loc>
+    
+    <lastmod>2025-08-02T12:37:25.274Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/index.html</loc>
+    
+    <lastmod>2025-08-02T12:37:25.273Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/about/index.html</loc>
+    
+    <lastmod>2025-08-02T12:37:25.272Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/wiki/hello-world/</loc>
+    
+    <lastmod>2025-08-02T12:24:42.253Z</lastmod>
+    
+  </url>
+  
+</urlset>
